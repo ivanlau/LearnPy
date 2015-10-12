@@ -1,2 +1,2 @@
-# 搞Git和Github
+# 搞Git和Github.com
 
